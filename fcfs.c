@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-int bt[20], wt[20], tat[20], i, n;
+   int bt[20], wt[20], tat[20], i, n;
 float wtavg, tatavg;
 printf("\nEnter the number of processes -- ");
 scanf("%d", &n);
